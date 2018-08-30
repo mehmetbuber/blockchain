@@ -1,0 +1,17 @@
+R:\blockchain\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.deps.json
+R:\blockchain\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.dll
+R:\blockchain\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.pdb
+R:\blockchain\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.csproj.CoreCompileInputs.cache
+R:\blockchain\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfoInputs.cache
+R:\blockchain\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfo.cs
+R:\blockchain\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.dll
+R:\blockchain\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.pdb
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.deps.json
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.dll
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.pdb
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.csprojAssemblyReference.cache
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.csproj.CoreCompileInputs.cache
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfoInputs.cache
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfo.cs
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.dll
+R:\github\Blockchain\src\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.pdb
