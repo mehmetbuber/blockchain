@@ -18,6 +18,7 @@ namespace BlockchainConsole
 
             Initialize();
 
+
             Console.ReadKey();
         }
 
